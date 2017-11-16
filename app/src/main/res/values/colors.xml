@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DC0B21</color>
+    <color name="colorPrimaryDark">#a90719</color>
+    <color name="colorAccent">#661357</color>
+
+    <!-- social colors -->
+    <color name="gmail">#DB4437</color>
+    <color name="facebook">#4267B2</color>
+    <color name="twitter">#4AB3F4</color>
+    <color name="orange">#f4790e</color>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IELTS</string>
+
+    <!-- sign in/up -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="gmail_sign_in">Login with Google</string>
+    <string name="fb_sign_in">Login with Facebook</string>
+    <string name="twitter_sign_in">Login with Twitter</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="sign_up">New here? Sign Up</string>
+</resources>

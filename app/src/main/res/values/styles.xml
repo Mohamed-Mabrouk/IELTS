@@ -1,0 +1,58 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <!-- login screen -->
+    <style name="login_screen_style">
+        <item name="android:paddingTop">30dp</item>
+        <item name="android:paddingLeft">30dp</item>
+        <item name="android:paddingRight">30dp</item>
+        <item name="android:paddingBottom">5dp</item>
+    </style>
+    <style name="text_input_style">
+        <item name="android:padding">3dp</item>
+    </style>
+
+    <style name="edit_text_style">
+        <item name="android:textSize">18sp</item>
+        <item name="android:padding">5dp</item>
+    </style>
+
+    <style name="login_btn_style">
+        <item name="android:padding">5dp</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:background">@color/orange</item>
+    </style>
+
+    <style name="social_btn_style">
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="line_separator_style">
+        <item name="android:background">@android:color/darker_gray</item>
+        <item name="android:layout_margin">15dp</item>
+    </style>
+
+    <style name="bottom_list_style">
+        <item name="android:layout_margin">5dp</item>
+    </style>
+
+    <style name="buttom_item_style">
+        <item name="android:padding">5dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+
+
+
+</resources>
